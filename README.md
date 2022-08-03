@@ -16,4 +16,15 @@
  - 결과 디렉토리에 편집한 영상 별도 저장
 
 
+### 2. FFMPEG
+
+ - 결과 디렉토리 생성 
+
+ - xml 파일 알람 이벤트 시작 진행 시간 가져오기(StartTime, AlarmDuration)
+
+ - 시작 종료 시간으로 영상 편집
+
+ - 결과 디렉토리에 편집한 영상 별도 저장 
+
+
 ![image](https://user-images.githubusercontent.com/55525614/181683451-41d69086-210a-401b-93de-fd8156163ba0.png)
