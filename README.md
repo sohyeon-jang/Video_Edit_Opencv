@@ -1,4 +1,4 @@
-# Video Edit OpenCV
+# Video Edit with OpenCV
 
 
 ### 1. OpenCV 
