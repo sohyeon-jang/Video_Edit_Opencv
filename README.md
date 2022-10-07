@@ -1,7 +1,7 @@
 # Video Edit with OpenCV
 
 
-### 1. OpenCV 
+### 1. OpenCV.
 
  - 결과 디렉토리 생성 
 
@@ -16,7 +16,7 @@
  - 결과 디렉토리에 편집한 영상 별도 저장
 
 
-### 2. FFMPEG
+### 2. FFMPEG.
 
  - 결과 디렉토리 생성 
 
